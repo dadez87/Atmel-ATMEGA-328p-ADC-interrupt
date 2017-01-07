@@ -1,0 +1,43 @@
+// The following message is output by Arduino, on Serial, when running the sketch
+// A0 -> General Purpose Digital Input (DI1)
+// A2 -> Throttle Position Sensor
+// A3 -> Lambda Sensor (O2 Sensor)
+// A6 -> Battery Voltage Status
+// A7 -> General Purpose Analog or Digital Input (ENABLE_OR_INT)
+// A8 -> ATmega 328p internal temperature
+
+
+Scan Time Required (all ADC signals): 1284us
+A0,Analog:1018,Digital:1
+A2,Analog:956,Digital:1
+A3,Analog:0,Digital:0
+A6,Analog:1023,Digital:1
+A7,Analog:985,Digital:1
+A8,Analog:70,Digital:0
+
+Scan Time Required (Lambda buffer filling): 9020us
+Samples: 255,255,255,255,255,255,255,255,
+
+
+Scan Time Required (all ADC signals): 1288us
+A0,Analog:1018,Digital:1
+A2,Analog:956,Digital:1
+A3,Analog:949,Digital:1
+A6,Analog:1023,Digital:1
+A7,Analog:985,Digital:1
+A8,Analog:70,Digital:0
+
+Scan Time Required (Lambda buffer filling): 9008us
+Samples: 0,0,0,0,0,0,0,0,
+
+
+Scan Time Required (all ADC signals): 1284us
+A0,Analog:1018,Digital:1
+A2,Analog:956,Digital:1
+A3,Analog:949,Digital:1
+A6,Analog:1023,Digital:1
+A7,Analog:987,Digital:1
+A8,Analog:71,Digital:0
+
+Scan Time Required (Lambda buffer filling): 9016us
+Samples: 255,255,255,255,255,255,255,255,
